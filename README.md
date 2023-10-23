@@ -1,4 +1,4 @@
-<img src="img/![Untitled](https://github.com/SeraphimI0/SeraLogger/assets/140994615/b2c2d09a-57ca-4789-915f-28bb991083ae)" width="100%" height="100%" />
+
 # SeraLogger
 Quick and easy to use Python logger/rat!
 
